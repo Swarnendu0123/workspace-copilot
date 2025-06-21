@@ -12,7 +12,7 @@ nylas = Client(
 )
 
 grant_id = os.environ.get("NYLAS_GRANT_ID")
-calendar_id = "clickswarnendu123@gmail.com"
+calendar_id = os.environ.get("NYLAS_CALENDAR_ID")
 
 
 mcp = FastMCP("calender")
