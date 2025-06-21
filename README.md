@@ -1,4 +1,4 @@
-# MCP Server
+# Workspace Copilot
 
 This project is a multi-server tool integration system designed to assist users in scheduling events, retrieving the current date and time, and interacting with a calendar. It uses the MCP (Multi-Client Protocol) framework to enable seamless communication between multiple servers and a client.
 
