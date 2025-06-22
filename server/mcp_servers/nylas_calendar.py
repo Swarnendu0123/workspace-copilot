@@ -111,8 +111,5 @@ def get_calendar_events():
     return events
 
 
-
-print(get_calendar_events())
-
 if __name__ == "__main__":    
     mcp.run(transport="stdio")
